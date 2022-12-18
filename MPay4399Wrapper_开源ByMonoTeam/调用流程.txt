@@ -1,0 +1,11 @@
+易语言 注册COM类 4399MpayWrapper 然后Class调用Init4399MPay()函数，返回文本型SAuth。
+SAuth用于获取otptoken等loginatp必要参数。
+
+LoginOtp、AuthOtp等参数可通过HTTPDbger拦截WPFLauncher参数获得，伪造并通过HTTPEncrypt之后获取密文发送给
+X19登录服务器，获取到的返回值进行HTTPDecrypt之后进行解析可执行游戏的启动（核心在于DToken）。
+
+
+感谢赵明宇。
+
+Made By MonoTeam
+22/12/18 

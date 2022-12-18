@@ -1,0 +1,8 @@
+D:\MonoProject\MPay4399Wrapper\bin\Debug\MPay4399Wrapper.dll
+D:\MonoProject\MPay4399Wrapper\bin\Debug\MPay4399Wrapper.pdb
+D:\MonoProject\MPay4399Wrapper\bin\Debug\MPayCliCppWrapper.dll
+D:\MonoProject\MPay4399Wrapper\obj\Debug\MPay4399Wrapper.csproj.AssemblyReference.cache
+D:\MonoProject\MPay4399Wrapper\obj\Debug\MPay4399Wrapper.csproj.CoreCompileInputs.cache
+D:\MonoProject\MPay4399Wrapper\obj\Debug\MPay4399Wrapper.csproj.CopyComplete
+D:\MonoProject\MPay4399Wrapper\obj\Debug\MPay4399Wrapper.dll
+D:\MonoProject\MPay4399Wrapper\obj\Debug\MPay4399Wrapper.pdb
